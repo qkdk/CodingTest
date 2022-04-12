@@ -7,3 +7,5 @@ def solution(n):
     
     answer = sum(numlist)
     return answer
+
+#계산하는 수를 2로 나누어서 하면 계산시간 2배 향상
